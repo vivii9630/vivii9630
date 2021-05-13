@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<!--
+<!
 **vivii9630/vivii9630** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 I'm Vivek from University of Calgary, AB. I always believe that a systematic approach towards Machine Learning with a sound understanding of the 'Mathematics' would make one a good Machine Learning Practitioner.
