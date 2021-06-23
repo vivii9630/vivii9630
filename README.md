@@ -1,4 +1,4 @@
-I'm Vivek from University of Calgary, AB. I always believe that a systematic approach towards Machine Learning with a sound understanding of the **_'Mathematics'_** would make one a good Machine Learning Practitioner.
+I'm Vivek from University of Calgary, AB. I always believe that a systematic approach towards Machine Learning with a sound understanding of **_'Mathematics'_** would make one a good Machine Learning Practitioner.
 
 **About me:**
 - 🔭 I’m a recent graduate student from @ucalgary
